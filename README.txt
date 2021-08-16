@@ -19,6 +19,6 @@ Em config.json abaixo.
 {
   "token": " ", Token do seu Bot
   "prefix": " ", prefix do seu Bot
-  "embedColor": "#a900ff", Cor da embad
+  "embedColor": "#a900ff", Cor da embed
   "youtubeAPI":" " Key API do youtube
 }
