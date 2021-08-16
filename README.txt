@@ -2,7 +2,7 @@ by Ruther!
 
 /////////////////////Sobre///////////////////////
 
-Para o bot funciona você vai precisar de uma Key API do YouTube e baixar no seu terminar os comandos abaixo.
+Para o bot funciona você vai precisar de uma Key API do YouTube e baixar no seu terminal os comandos abaixo.
 
 npm i --save discord.js
 npm i --save ffmpeg-static
